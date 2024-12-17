@@ -1,0 +1,8 @@
+{
+    "defaultName": "KazeMail",
+    "defaultTitle": "一条默认标题~",
+    "defaultMsg": "一条默认消息~",
+    "missingFields": "居然没填收件人邮箱",
+    "success": "发送成功！如果没看见请检查收件箱，也可能是你填到了别人的邮箱",
+    "failure": "发送失败！请检查邮箱格式或是否存在这个邮箱"
+}

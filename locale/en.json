@@ -1,0 +1,8 @@
+{
+  "defaultName": "KazeMail",
+  "defaultTitle": "A default title~",
+  "defaultMsg": "A default message~",
+  "missingFields": "I didn’t even fill in the recipient’s email address.",
+  "success": "Sent successfully! If you don’t see it, please check your inbox. It may be that you entered someone else’s email address.",
+  "failure": "Sent failed! please check the email format or whether the email exists."
+}
